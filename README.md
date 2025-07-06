@@ -15,10 +15,5 @@ A simple GUI calculator built using **C** and the **GTK+ 3** library.
 
 ---
 
-## 📸 Screenshots
-
-*You can add a screenshot here once available:*
-
-```markdown
 
 
